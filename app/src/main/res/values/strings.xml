@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">UPIPayment</string>
+    <string name="amount">Amount</string>
+    <string name="upi_id">UPI ID</string>
+    <string name="demo_upi">ssvekariya11@okicici</string>
+    <string name="payee_name">Payee Name</string>
+    <string name="demo_payee_name">Sanket Vekariya</string>
+    <string name="remarks">Remarks</string>
+    <string name="demo_remarks">31–10–19 lunch</string>
+    <string name="demo_amount">100</string>
+    <string name="send_now_button">send money via upi</string>
+    <string name="no_upi_app_found_error">Currently NO UPI APP FOUND, please install at least one to continue</string>
+    <string name="no_internet_available_error">Internet connection is not available. Please check and try again</string>
+    <string name="transaction_failed">Transaction failed.Please try again</string>
+    <string name="payment_cancelled_by_user">Payment cancelled by user</string>
+    <string name="payment_success">Transaction successful</string>
+    <string name="pay_with">Pay with</string>
+</resources>
